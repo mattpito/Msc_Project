@@ -1,3 +1,6 @@
+"""It is advised to look at the IsoformSwitchAnalyzerR main page before proceeding."""
+
+
 library("IsoformSwitchAnalyzeR")
 
 #Importing Data from Kallisto
